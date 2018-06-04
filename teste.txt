@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 93290061 1049089 0 jun  4 08:16 teste.txt
